@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "hart4847@stthomas.edu")
 Description: This package is a test.
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/hart4847/project
