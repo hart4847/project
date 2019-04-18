@@ -1,0 +1,12 @@
+Package: project
+Title: test418
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Josh",
+           family = "Hartwig",
+           role = c("aut", "cre"),
+           email = "hart4847@stthomas.edu")
+Description: This package is a test.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
